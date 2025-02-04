@@ -13,8 +13,6 @@ Olá! Me chamo **Gabriel Caurin** e sou um **Desenvolvedor Júnior** em busca de
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbcaurin&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gbcaurin&theme=dark)
-
 ---
 
 ## 🚀 Tecnologias
