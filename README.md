@@ -7,13 +7,6 @@ Olá! Me chamo **Gabriel Caurin** e sou um **Desenvolvedor Júnior** em busca de
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gbcaurin&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbcaurin&layout=compact&theme=dark)
-
----
 
 ## 🚀 Tecnologias
 
