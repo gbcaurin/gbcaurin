@@ -3,7 +3,7 @@ Olá! Me chamo **Gabriel Caurin** e sou um **Desenvolvedor Júnior** em busca de
 
 🚀 Apaixonado por tecnologia e sempre aprendendo coisas novas.
 
-📫 Conecte-se comigo no [LinkedIn](www.linkedin.com/in/gabrielcaurin).
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabrielcaurin).
 
 ---
 
