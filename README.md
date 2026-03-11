@@ -1,10 +1,15 @@
 # Sobre mim
+
 Olá, me chamo **Gabriel Caurin de Souza**.  
 Sou **Desenvolvedor Full Stack Júnior**.
+
 🎓 Estudante de Engenharia de Software   
 🚀 Construindo projetos práticos e buscando minha primeira oportunidade como desenvolvedor
+
 📫 LinkedIn: https://www.linkedin.com/in/gabrielcaurin
+
 ---
+
 # Tech Stack
 ## Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
