@@ -11,7 +11,6 @@
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
 
-<img align="left" src="assets/code.png" alt="Ilustração" width="180" style="margin-right: 20px; margin-bottom: 8px;" />
 
 <p>Desenvolvedor Full Stack Júnior, estudante de Engenharia de Software na PUC-Campinas com formação técnica pelo SENAI Valinhos. Tive minha primeira experiência profissional como Jovem Aprendiz analista de dados na Stoller (Corteva Agriscience) — onde aprendi que dado sem contexto não resolve nada, e sistema sem dado não escala.</p>
 
@@ -23,7 +22,6 @@
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Foco no momento</h2>
 
-<img align="right" src="assets/target.png" alt="Ilustração" width="180" style="margin-left: 20px; margin-bottom: 8px;" />
 
 <ul>
   <li>Buscar minha primeira oportunidade como <strong>desenvolvedor júnior ou estagiário</strong> — com stack React / Node.js / Python.</li>
