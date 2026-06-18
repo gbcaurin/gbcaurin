@@ -110,7 +110,7 @@ Aberto a oportunidades como desenvolvedor júnior ou estagiário. Se quiser conv
   <a href="https://www.linkedin.com/in/gabrielcaurin" style="display: inline-block; padding: 0 22px;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
   </a>
-  <a href="https://gabrielcaurindev.lovable.app" style="display: inline-block; padding: 0 22px;">
+  <a href="https://gabrielcaurin.vercel.app/" style="display: inline-block; padding: 0 22px;">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white&color=black" alt="Portfólio" />
   </a>
 </p>
