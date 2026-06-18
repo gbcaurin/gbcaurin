@@ -14,7 +14,6 @@
 
 <p>Desenvolvedor Full Stack Júnior, estudante de Engenharia de Software na PUC-Campinas com formação técnica pelo SENAI Valinhos. Tive minha primeira experiência profissional como Jovem Aprendiz analista de dados na Stoller (Corteva Agriscience) — onde aprendi que dado sem contexto não resolve nada, e sistema sem dado não escala.</p>
 
-<p>Hoje tenho foco em construir interfaces e APIs que <strong>resolvem problemas de verdade</strong>: de dashboard financeiro com CRUD completo até bots e integrações. A lógica é simples — se algo vai ser usado mais de uma vez, merece ser bem feito desde o começo.</p>
 
 <div style="clear: both;"></div>
 
@@ -24,9 +23,9 @@
 
 
 <ul>
-  <li>Buscar minha primeira oportunidade como <strong>desenvolvedor júnior ou estagiário</strong> — com stack React / Node.js / Python.</li>
+  <li>Buscar minha primeira oportunidade como <strong>desenvolvedor júnior ou estagiário</strong>.</li>
   <li>Consolidar o portfólio com <strong>projetos que provam execução</strong>, não só conceito: tela funcionando, API respondendo, banco modelado.</li>
-  <li>Melhorar a camada de <strong>arquitetura e organização de código</strong> — menos improvisação, mais decisão consciente de estrutura.</li>
+  <li>Melhorar a camada de <strong>arquitetura e organização de código</strong>.</li>
 </ul>
 
 <p align="center">
