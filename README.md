@@ -23,7 +23,6 @@
 
 
 <ul>
-  <li>Buscar minha primeira oportunidade como <strong>desenvolvedor júnior ou estagiário</strong>.</li>
   <li>Consolidar o portfólio com <strong>projetos que provam execução</strong>, não só conceito: tela funcionando, API respondendo, banco modelado.</li>
   <li>Melhorar a camada de <strong>arquitetura e organização de código</strong>.</li>
 </ul>
