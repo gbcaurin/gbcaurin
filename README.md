@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-success?style=for-the-badge&color=black" alt="Open to work" />
   <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&color=black" alt="Fullstack" />
   <img src="https://img.shields.io/badge/LOC-CAMPINAS_SP-blue?style=for-the-badge&color=black" alt="Localização" />
-  <img src="https://img.shields.io/badge/GRAU-ENG._SOFTWARE-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Engenharia de Software" />
+  <img src="https://img.shields.io/badge/GRAU-SIST._INFORMAÇÃO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Sistemas de Informação" />
   <img src="https://img.shields.io/badge/MODO-CONSTRUINDO-critical?style=for-the-badge&color=black" alt="Construindo" />
   <img src="https://img.shields.io/badge/FOCO-PRODUTO_REAL-orange?style=for-the-badge&color=black" alt="Produto real" />
 </p>
@@ -12,7 +12,7 @@
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
 
 
-<p>Desenvolvedor Full Stack Júnior, estudante de Engenharia de Software na PUC-Campinas com formação técnica pelo SENAI Valinhos. Tive minha primeira experiência profissional como Jovem Aprendiz analista de dados na Stoller (Corteva Agriscience) — onde aprendi que dado sem contexto não resolve nada, e sistema sem dado não escala.</p>
+<p>Desenvolvedor Full Stack Júnior, estudante de Sistemas de Informação na UNIP Campinas (2º semestre) com formação técnica pelo SENAI Valinhos. Atualmente estagiário de Suporte de Sistemas na EPTV. Tive minha primeira experiência profissional como Jovem Aprendiz analista de dados na Stoller (Corteva Agriscience) — onde aprendi que dado sem contexto não resolve nada, e sistema sem dado não escala.</p>
 
 
 <div style="clear: both;"></div>
@@ -59,6 +59,14 @@ Desafio técnico de vaga: busca de perfis GitHub com `React`, `ChakraUI v2`, `i1
 </p>
 
 SaaS full-stack para levantamento de requisitos com IA: `FastAPI` + `LangChain` no backend, `React` + `WebSocket` no front, autenticação JWT, banco relacional. Construído em hackathon — com bugs reais de produção resolvidos em ritmo acelerado.
+
+<p>
+  <a href="https://github.com/gbcaurin/RPA.01">
+    <img src="https://img.shields.io/badge/RPA.01-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=black" alt="RPA.01 no GitHub" />
+  </a>
+</p>
+
+Teste prático de programador RPA: automação em `Python` que baixa uma planilha do Google Sheets via `Selenium` + `PyAutoGUI`, extrai os dados com `Pandas`/`openpyxl` e preenche automaticamente o formulário de empréstimo do UiBank, reportando no console se cada solicitação foi aprovada ou rejeitada.
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
