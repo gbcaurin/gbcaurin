@@ -3,8 +3,6 @@
   <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&color=black" alt="Fullstack" />
   <img src="https://img.shields.io/badge/LOC-CAMPINAS_SP-blue?style=for-the-badge&color=black" alt="Localização" />
   <img src="https://img.shields.io/badge/GRAU-SIST._INFORMAÇÃO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Sistemas de Informação" />
-  <img src="https://img.shields.io/badge/MODO-CONSTRUINDO-critical?style=for-the-badge&color=black" alt="Construindo" />
-  <img src="https://img.shields.io/badge/FOCO-PRODUTO_REAL-orange?style=for-the-badge&color=black" alt="Produto real" />
 </p>
 
 ---
