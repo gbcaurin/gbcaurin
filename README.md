@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-success?style=for-the-badge&color=black" alt="Open to work" />
+  <p align="center"> <img src="https://img.shields.io/badge/ESTAGIÁRIO_@_EPTV-success?style=for-the-badge&color=black" alt="Estagiário na EPTV" />
   <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&color=black" alt="Fullstack" />
   <img src="https://img.shields.io/badge/LOC-CAMPINAS_SP-blue?style=for-the-badge&color=black" alt="Localização" />
   <img src="https://img.shields.io/badge/GRAU-SIST._INFORMAÇÃO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Sistemas de Informação" />
